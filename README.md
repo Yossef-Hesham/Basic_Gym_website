@@ -1,7 +1,7 @@
 # 🏋️‍♀️ Basic Gym Website
 
 A simple, responsive gym website built with HTML, CSS, and JavaScript.  
-Created during my 2nd year at the Faculty of Computers and Information as a practice project to improve my front-end development skills.
+Created during my 2nd year with my team at the Faculty of Computers and Information as a practice project to improve my front-end development skills.
 
 ---
 
